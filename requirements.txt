@@ -1,6 +1,5 @@
-streamlist
+streamlit
 pandas
-numpy
 matplotlib
 seaborn
-os
+openpyxl
